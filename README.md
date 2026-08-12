@@ -5,7 +5,7 @@
 `TITLE BLOCK`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2200&pause=500&color=FACC15&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=260&lines=Role%3A+Full-Stack+Software+Engineer;Experience%3A+~4+years+building+scalable+web+applications;Base%3A+Pune%2C+India;Core%3A+Next.js%2C+Node.js%2C+TypeScript%2C+REST+API+design;Cloud%3A+AWS+Lambda%2C+EventBridge%2C+Step+Functions%2C+Cognito;AI%3A+OpenAI%2C+Claude%2C+Stability+AI%2C+Whisper;Craft%3A+Production+support%2C+Observability%2C+CI%2FCD%2C+Secure+auth+%26+payments;Mission%3A+Ship+dependable%2C+AI-powered+products+end-to-end." alt="Typing SVG summary of Roshani's role, experience, and stack" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2200&pause=500&color=FACC15&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=210&lines=Role%3A+Full-Stack+Software+Engineer;Experience%3A+~4+years+building+scalable+web+applications;Base%3A+Pune%2C+India;Core%3A+Next.js%2C+Node.js%2C+TypeScript%2C+REST+API+design;Cloud%3A+AWS+Lambda%2C+EventBridge%2C+Step+Functions%2C+Cognito;AI%3A+OpenAI%2C+Claude%2C+Stability+AI%2C+Whisper;Craft%3A+Production+support%2C+Observability%2C+CI%2FCD%2C+Secure+auth+%26+payments;Mission%3A+Ship+dependable%2C+AI-powered+products+end-to-end." alt="Typing SVG summary of Roshani's role, experience, and stack" />
 </p>
 
 <hr>
