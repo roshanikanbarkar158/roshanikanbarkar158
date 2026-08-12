@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Roshani Kanbarkar — Full-Stack Software Engineer</title>
+  <desc id="desc">Blueprint identity banner with a floating cluster of technology bubbles</desc>
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b0b"></stop>
+      <stop offset=".55" stop-color="#151513"></stop>
+      <stop offset="1" stop-color="#080808"></stop>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fde047"></stop>
+      <stop offset=".55" stop-color="#facc15"></stop>
+      <stop offset="1" stop-color="#eab308"></stop>
+    </linearGradient>
+    <radialGradient id="hubGlow">
+      <stop offset="0" stop-color="#facc15" stop-opacity=".22"></stop>
+      <stop offset="1" stop-color="#facc15" stop-opacity="0"></stop>
+    </radialGradient>
+    <pattern id="blueprintGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#facc15" stroke-width="1" opacity=".07"></path>
+    </pattern>
+    <clipPath id="panelClip"><rect x="1" y="1" width="1198" height="378" rx="22"></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="378" rx="22" fill="url(#bgGrad)" stroke="#3f3f46"></rect>
+  <g clip-path="url(#panelClip)">
+    <rect width="1200" height="380" fill="url(#blueprintGrid)"></rect>
+    <g stroke="#a1a1aa" stroke-width="1" opacity=".12">
+      <path d="M240 0V380"></path><path d="M480 0V380"></path><path d="M720 0V380"></path><path d="M960 0V380"></path>
+      <path d="M0 126H1200"></path><path d="M0 252H1200"></path>
+    </g>
+    <path d="M-40 90 C 160 30, 340 150, 540 90 S 900 30, 1240 100" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".16"></path>
+    <path d="M-40 190 C 200 120, 380 260, 600 190 S 960 120, 1240 200" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".2"></path>
+    <path d="M-40 300 C 180 240, 400 360, 620 296 S 980 240, 1240 306" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".16"></path>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+  </g>
+
+  <g stroke="#facc15" stroke-width="1.5" opacity=".55" fill="none">
+    <path d="M16 30V16H30"></path>
+    <path d="M1170 16H1184V30"></path>
+    <path d="M16 350V364H30"></path>
+    <path d="M1170 364H1184V350"></path>
+  </g>
+
+  <text x="42" y="34" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">github.com/roshanikanbarkar158</text>
+  <path d="M42 50H1158" stroke="#3f3f46" stroke-width="1" opacity=".6"></path>
+
+  <text x="68" y="176" fill="url(#accentGrad)" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="800" letter-spacing="1">ROSHANI KANBARKAR</text>
+  <rect x="632" y="138" width="9" height="42" fill="#facc15">
+    
+  </rect>
+  <text x="70" y="212" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Full-stack engineer building AI-powered products end to end.</text>
+
+  <g stroke="#52525b" stroke-width="1">
+    <path d="M70 244H780"></path>
+    <path d="M70 238V250"></path>
+    <path d="M780 238V250"></path>
+  </g>
+  <text x="425" y="268" text-anchor="middle" fill="#a1a1aa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">FROM FIRST COMMIT TO PRODUCTION — 4+ YEARS</text>
+
+  <g transform="translate(978 196)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle r="140" fill="url(#hubGlow)"></circle>
+    <circle r="118" fill="none" stroke="url(#accentGrad)" stroke-width="1.2" stroke-dasharray="4 12" opacity=".4">
+      
+    </circle>
+    <g stroke="#52525b" stroke-width="1" fill="none" opacity=".6">
+      <path d="M0 0 L0 -96"></path>
+      <path d="M0 0 L-104 -30"></path>
+      <path d="M0 0 L104 -24"></path>
+      <path d="M0 0 L-56 52"></path>
+      <path d="M0 0 L112 62"></path>
+    </g>
+    <circle r="5" fill="#facc15"></circle>
+    <g>
+      
+      <rect x="-56" y="-115" width="112" height="38" rx="19" fill="#111110" stroke="#facc15" stroke-opacity=".75"></rect>
+      <circle cx="-38" cy="-96" r="3.5" fill="#facc15" opacity="1"></circle>
+      <text x="-26" y="-91" fill="#fde047" font-size="13" font-weight="600" letter-spacing=".5">NEXT.JS</text>
+    </g>
+    <g>
+      
+      <rect x="-160" y="-49" width="112" height="38" rx="19" fill="#111110" stroke="#facc15" stroke-opacity=".75"></rect>
+      <circle cx="-142" cy="-30" r="3.5" fill="#facc15" opacity="1"></circle>
+      <text x="-130" y="-25" fill="#fde047" font-size="13" font-weight="600" letter-spacing=".5">NODE.JS</text>
+    </g>
+    <g>
+      
+      <rect x="56" y="-43" width="96" height="38" rx="19" fill="#111110" stroke="#a1a1aa" stroke-opacity=".5"></rect>
+      <circle cx="74" cy="-24" r="3.5" fill="#a1a1aa" opacity=".7"></circle>
+      <text x="86" y="-19" fill="#e4e4e7" font-size="13" font-weight="600" letter-spacing=".5">AWS</text>
+    </g>
+    <g>
+      
+      <rect x="-112" y="33" width="112" height="38" rx="19" fill="#111110" stroke="#facc15" stroke-opacity=".75"></rect>
+      <circle cx="-94" cy="52" r="3.5" fill="#facc15" opacity="1"></circle>
+      <text x="-82" y="57" fill="#fde047" font-size="13" font-weight="600" letter-spacing=".5">AI / LLM</text>
+    </g>
+    <g>
+      
+      <rect x="46" y="43" width="132" height="38" rx="19" fill="#111110" stroke="#a1a1aa" stroke-opacity=".5"></rect>
+      <circle cx="64" cy="62" r="3.5" fill="#a1a1aa" opacity=".7"></circle>
+      <text x="76" y="67" fill="#e4e4e7" font-size="13" font-weight="600" letter-spacing=".5">DATABASES</text>
+    </g>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.5">
+    <a href="https://www.linkedin.com/in/roshani-kanbarkar" target="_blank">
+      <rect x="70" y="300" width="118" height="34" rx="8" fill="#111110" stroke="#3f3f46"></rect>
+      <text x="129" y="322" text-anchor="middle" fill="#facc15">LINKEDIN</text>
+    </a>
+    <text x="200" y="322" fill="#52525b">·</text>
+    <a href="mailto:roshanikanbarkar.work@gmail.com">
+      <rect x="212" y="300" width="94" height="34" rx="8" fill="#111110" stroke="#3f3f46"></rect>
+      <text x="259" y="322" text-anchor="middle" fill="#facc15">EMAIL</text>
+    </a>
+  </g>
+</svg>

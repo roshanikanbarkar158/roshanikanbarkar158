@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="486" viewBox="0 0 1200 486" role="img" aria-labelledby="title desc">
+  <title id="title">Roshani Kanbarkar — technology matrix</title>
+  <desc id="desc">Blueprint panel listing backend, frontend, database, cloud, payments and AI technologies</desc>
+  <defs>
+    <linearGradient id="mBgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b0b"></stop>
+      <stop offset=".55" stop-color="#151513"></stop>
+      <stop offset="1" stop-color="#080808"></stop>
+    </linearGradient>
+    <linearGradient id="mAccentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fde047"></stop>
+      <stop offset=".55" stop-color="#facc15"></stop>
+      <stop offset="1" stop-color="#eab308"></stop>
+    </linearGradient>
+    <pattern id="mGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#facc15" stroke-width="1" opacity=".07"></path>
+    </pattern>
+    <clipPath id="mClip"><rect x="1" y="1" width="1198" height="484" rx="22"></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="484" rx="22" fill="url(#mBgGrad)" stroke="#3f3f46"></rect>
+  <g clip-path="url(#mClip)">
+    <rect width="1200" height="486" fill="url(#mGrid)"></rect>
+    <g stroke="#a1a1aa" stroke-width="1" opacity=".1">
+      <path d="M400 0V486"></path><path d="M800 0V486"></path><path d="M0 160H1200"></path><path d="M0 320H1200"></path>
+    </g>
+    <path d="M-40 110 C 200 40, 380 190, 600 120 S 960 50, 1240 130" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".16"></path>
+    <path d="M-40 260 C 180 190, 420 340, 640 268 S 1000 190, 1240 276" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".16"></path>
+    <path d="M-40 400 C 220 330, 420 470, 660 402 S 1000 330, 1240 416" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".16"></path>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+  </g>
+
+  <g stroke="#facc15" stroke-width="1.5" opacity=".55" fill="none">
+    <path d="M16 30V16H30"></path>
+    <path d="M1170 16H1184V30"></path>
+    <path d="M16 456V470H30"></path>
+    <path d="M1170 470H1184V456"></path>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="42" y="42" fill="url(#mAccentGrad)" font-size="17" font-weight="700" letter-spacing="4">TECHNOLOGY MATRIX</text>
+    <text x="1158" y="42" text-anchor="end" fill="#a1a1aa" font-size="11" letter-spacing="2">6 DOMAINS · PRODUCTION-TESTED</text>
+    <path d="M42 58H1158" stroke="#3f3f46"></path>
+    <g>
+      <rect x="42" y="88" width="356" height="132" rx="10" fill="#111110" stroke="#3f3f46"></rect>
+      <rect x="42" y="102" width="3" height="20" fill="#facc15"></rect>
+      <text x="64" y="122" fill="#facc15" font-size="13" font-weight="700" letter-spacing="2">BACKEND</text>
+      <text x="376" y="122" text-anchor="end" fill="#52525b" font-size="11" letter-spacing="1.5">01</text>
+      <path d="M56 134H384" stroke="#27272a"></path>
+      <text x="64" y="150" fill="#d4d4d8" font-size="12.5">Node.js · Express.js · TypeScript</text>
+      <text x="64" y="172" fill="#d4d4d8" font-size="12.5">REST API design</text>
+    </g>
+    <g>
+      <rect x="422" y="88" width="356" height="132" rx="10" fill="#111110" stroke="#3f3f46"></rect>
+      <rect x="422" y="102" width="3" height="20" fill="#facc15"></rect>
+      <text x="444" y="122" fill="#facc15" font-size="13" font-weight="700" letter-spacing="2">FRONTEND</text>
+      <text x="756" y="122" text-anchor="end" fill="#52525b" font-size="11" letter-spacing="1.5">02</text>
+      <path d="M436 134H764" stroke="#27272a"></path>
+      <text x="444" y="150" fill="#d4d4d8" font-size="12.5">React.js · Next.js · JavaScript</text>
+    </g>
+    <g>
+      <rect x="802" y="88" width="356" height="132" rx="10" fill="#111110" stroke="#3f3f46"></rect>
+      <rect x="802" y="102" width="3" height="20" fill="#facc15"></rect>
+      <text x="824" y="122" fill="#facc15" font-size="13" font-weight="700" letter-spacing="2">DATABASES</text>
+      <text x="1136" y="122" text-anchor="end" fill="#52525b" font-size="11" letter-spacing="1.5">03</text>
+      <path d="M816 134H1144" stroke="#27272a"></path>
+      <text x="824" y="150" fill="#d4d4d8" font-size="12.5">MySQL · PostgreSQL · MongoDB</text>
+      <text x="824" y="172" fill="#d4d4d8" font-size="12.5">DynamoDB · Redis · Sequelize ORM</text>
+    </g>
+    <g>
+      <rect x="42" y="244" width="736" height="200" rx="10" fill="#111110" stroke="#3f3f46"></rect>
+      <rect x="42" y="258" width="3" height="20" fill="#facc15"></rect>
+      <text x="64" y="278" fill="#facc15" font-size="13" font-weight="700" letter-spacing="2">CLOUD &amp; DEVOPS</text>
+      <text x="756" y="278" text-anchor="end" fill="#52525b" font-size="11" letter-spacing="1.5">04</text>
+      <path d="M56 290H764" stroke="#27272a"></path>
+      <text x="64" y="306" fill="#d4d4d8" font-size="12.5">AWS — Lambda · API Gateway · EC2 · S3 · CloudFront · EventBridge</text>
+      <text x="64" y="328" fill="#d4d4d8" font-size="12.5">Step Functions · SQS · SES · DynamoDB · OpenSearch · Cognito</text>
+      <text x="64" y="350" fill="#d4d4d8" font-size="12.5">Amplify · Pinpoint · IAM</text>
+      <text x="64" y="372" fill="#d4d4d8" font-size="12.5">CI/CD · Git · GitHub · Bitbucket</text>
+    </g>
+    <g>
+      <rect x="802" y="244" width="356" height="96" rx="10" fill="#111110" stroke="#3f3f46"></rect>
+      <rect x="802" y="258" width="3" height="20" fill="#facc15"></rect>
+      <text x="824" y="278" fill="#facc15" font-size="13" font-weight="700" letter-spacing="2">PAYMENTS &amp; AUTH</text>
+      <text x="1136" y="278" text-anchor="end" fill="#52525b" font-size="11" letter-spacing="1.5">05</text>
+      <path d="M816 290H1144" stroke="#27272a"></path>
+      <text x="824" y="306" fill="#d4d4d8" font-size="12.5">Stripe · Amazon Cognito</text>
+      <text x="824" y="328" fill="#d4d4d8" font-size="12.5">Google OAuth / SSO · Facebook Login</text>
+    </g>
+    <g>
+      <rect x="802" y="348" width="356" height="96" rx="10" fill="#111110" stroke="#3f3f46"></rect>
+      <rect x="802" y="362" width="3" height="20" fill="#facc15"></rect>
+      <text x="824" y="382" fill="#facc15" font-size="13" font-weight="700" letter-spacing="2">AI &amp; LLMs</text>
+      <text x="1136" y="382" text-anchor="end" fill="#52525b" font-size="11" letter-spacing="1.5">06</text>
+      <path d="M816 394H1144" stroke="#27272a"></path>
+      <text x="824" y="410" fill="#d4d4d8" font-size="12.5">OpenAI · Claude · Stability AI · Whisper</text>
+      <text x="824" y="432" fill="#d4d4d8" font-size="12.5">AI-assisted dev — Cursor, GitHub Copilot</text>
+    </g>
+  </g>
+</svg>
