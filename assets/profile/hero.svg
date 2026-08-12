@@ -32,21 +32,21 @@
     <path d="M-40 90 C 160 30, 340 150, 540 90 S 900 30, 1240 100" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".16"></path>
     <path d="M-40 190 C 200 120, 380 260, 600 190 S 960 120, 1240 200" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".2"></path>
     <path d="M-40 300 C 180 240, 400 360, 620 296 S 980 240, 1240 306" fill="none" stroke="#a1a1aa" stroke-width="1" opacity=".16"></path>
-    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
-    <circle r="3" fill="#d4d4d8" opacity=".75"></circle>
-    <circle r="2" fill="#a1a1aa" opacity=".55"></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"><animateMotion dur="16s" begin="0s" repeatCount="indefinite" path="M-40 90 C 160 30, 340 150, 540 90 S 900 30, 1240 100"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="16s" begin="-3.2s" repeatCount="indefinite" path="M-40 90 C 160 30, 340 150, 540 90 S 900 30, 1240 100"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="16s" begin="-6.4s" repeatCount="indefinite" path="M-40 90 C 160 30, 340 150, 540 90 S 900 30, 1240 100"/></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"><animateMotion dur="16s" begin="-9.6s" repeatCount="indefinite" path="M-40 90 C 160 30, 340 150, 540 90 S 900 30, 1240 100"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="16s" begin="-12.8s" repeatCount="indefinite" path="M-40 90 C 160 30, 340 150, 540 90 S 900 30, 1240 100"/></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"><animateMotion dur="19s" begin="0s" repeatCount="indefinite" path="M-40 190 C 200 120, 380 260, 600 190 S 960 120, 1240 200"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="19s" begin="-3.8s" repeatCount="indefinite" path="M-40 190 C 200 120, 380 260, 600 190 S 960 120, 1240 200"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="19s" begin="-7.6s" repeatCount="indefinite" path="M-40 190 C 200 120, 380 260, 600 190 S 960 120, 1240 200"/></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"><animateMotion dur="19s" begin="-11.4s" repeatCount="indefinite" path="M-40 190 C 200 120, 380 260, 600 190 S 960 120, 1240 200"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="19s" begin="-15.2s" repeatCount="indefinite" path="M-40 190 C 200 120, 380 260, 600 190 S 960 120, 1240 200"/></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"><animateMotion dur="22s" begin="0s" repeatCount="indefinite" path="M-40 300 C 180 240, 400 360, 620 296 S 980 240, 1240 306"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="22s" begin="-4.4s" repeatCount="indefinite" path="M-40 300 C 180 240, 400 360, 620 296 S 980 240, 1240 306"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="22s" begin="-8.8s" repeatCount="indefinite" path="M-40 300 C 180 240, 400 360, 620 296 S 980 240, 1240 306"/></circle>
+    <circle r="3" fill="#d4d4d8" opacity=".75"><animateMotion dur="22s" begin="-13.2s" repeatCount="indefinite" path="M-40 300 C 180 240, 400 360, 620 296 S 980 240, 1240 306"/></circle>
+    <circle r="2" fill="#a1a1aa" opacity=".55"><animateMotion dur="22s" begin="-17.6s" repeatCount="indefinite" path="M-40 300 C 180 240, 400 360, 620 296 S 980 240, 1240 306"/></circle>
   </g>
 
   <g stroke="#facc15" stroke-width="1.5" opacity=".55" fill="none">
@@ -61,7 +61,7 @@
 
   <text x="68" y="176" fill="url(#accentGrad)" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="800" letter-spacing="1">ROSHANI KANBARKAR</text>
   <rect x="632" y="138" width="9" height="42" fill="#facc15">
-    
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
   <text x="70" y="212" fill="#d4d4d8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Full-stack engineer building AI-powered products end to end.</text>
 
@@ -74,9 +74,6 @@
 
   <g transform="translate(978 196)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
     <circle r="140" fill="url(#hubGlow)"></circle>
-    <circle r="118" fill="none" stroke="url(#accentGrad)" stroke-width="1.2" stroke-dasharray="4 12" opacity=".4">
-      
-    </circle>
     <g stroke="#52525b" stroke-width="1" fill="none" opacity=".6">
       <path d="M0 0 L0 -96"></path>
       <path d="M0 0 L-104 -30"></path>
@@ -84,35 +81,47 @@
       <path d="M0 0 L-56 52"></path>
       <path d="M0 0 L112 62"></path>
     </g>
-    <circle r="5" fill="#facc15"></circle>
+    <circle r="5" fill="#facc15">
+      <animate attributeName="opacity" values=".55;1;.55" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
     <g>
       
       <rect x="-56" y="-115" width="112" height="38" rx="19" fill="#111110" stroke="#facc15" stroke-opacity=".75"></rect>
-      <circle cx="-38" cy="-96" r="3.5" fill="#facc15" opacity="1"></circle>
+      <circle cx="-38" cy="-96" r="3.5" fill="#facc15" opacity="1">
+        <animate attributeName="opacity" values=".4;1;.4" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+      </circle>
       <text x="-26" y="-91" fill="#fde047" font-size="13" font-weight="600" letter-spacing=".5">NEXT.JS</text>
     </g>
     <g>
       
       <rect x="-160" y="-49" width="112" height="38" rx="19" fill="#111110" stroke="#facc15" stroke-opacity=".75"></rect>
-      <circle cx="-142" cy="-30" r="3.5" fill="#facc15" opacity="1"></circle>
+      <circle cx="-142" cy="-30" r="3.5" fill="#facc15" opacity="1">
+        <animate attributeName="opacity" values=".4;1;.4" dur="2.2s" begin=".2s" repeatCount="indefinite"/>
+      </circle>
       <text x="-130" y="-25" fill="#fde047" font-size="13" font-weight="600" letter-spacing=".5">NODE.JS</text>
     </g>
     <g>
       
       <rect x="56" y="-43" width="96" height="38" rx="19" fill="#111110" stroke="#a1a1aa" stroke-opacity=".5"></rect>
-      <circle cx="74" cy="-24" r="3.5" fill="#a1a1aa" opacity=".7"></circle>
+      <circle cx="74" cy="-24" r="3.5" fill="#a1a1aa" opacity=".7">
+        <animate attributeName="opacity" values=".35;.7;.35" dur="2.2s" begin=".4s" repeatCount="indefinite"/>
+      </circle>
       <text x="86" y="-19" fill="#e4e4e7" font-size="13" font-weight="600" letter-spacing=".5">AWS</text>
     </g>
     <g>
       
       <rect x="-112" y="33" width="112" height="38" rx="19" fill="#111110" stroke="#facc15" stroke-opacity=".75"></rect>
-      <circle cx="-94" cy="52" r="3.5" fill="#facc15" opacity="1"></circle>
+      <circle cx="-94" cy="52" r="3.5" fill="#facc15" opacity="1">
+        <animate attributeName="opacity" values=".4;1;.4" dur="2.2s" begin=".6s" repeatCount="indefinite"/>
+      </circle>
       <text x="-82" y="57" fill="#fde047" font-size="13" font-weight="600" letter-spacing=".5">AI / LLM</text>
     </g>
     <g>
       
       <rect x="46" y="43" width="132" height="38" rx="19" fill="#111110" stroke="#a1a1aa" stroke-opacity=".5"></rect>
-      <circle cx="64" cy="62" r="3.5" fill="#a1a1aa" opacity=".7"></circle>
+      <circle cx="64" cy="62" r="3.5" fill="#a1a1aa" opacity=".7">
+        <animate attributeName="opacity" values=".35;.7;.35" dur="2.2s" begin=".8s" repeatCount="indefinite"/>
+      </circle>
       <text x="76" y="67" fill="#e4e4e7" font-size="13" font-weight="600" letter-spacing=".5">DATABASES</text>
     </g>
   </g>
