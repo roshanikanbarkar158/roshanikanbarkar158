@@ -125,15 +125,4 @@
       <text x="76" y="67" fill="#e4e4e7" font-size="13" font-weight="600" letter-spacing=".5">DATABASES</text>
     </g>
   </g>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600" letter-spacing="1.5">
-    <a href="https://www.linkedin.com/in/roshani-kanbarkar" target="_blank">
-      <rect x="70" y="300" width="118" height="34" rx="8" fill="#111110" stroke="#3f3f46"></rect>
-      <text x="129" y="322" text-anchor="middle" fill="#facc15">LINKEDIN</text>
-    </a>
-    <text x="200" y="322" fill="#52525b">·</text>
-    <a href="mailto:roshanikanbarkar.work@gmail.com">
-      <rect x="212" y="300" width="94" height="34" rx="8" fill="#111110" stroke="#3f3f46"></rect>
-      <text x="259" y="322" text-anchor="middle" fill="#facc15">EMAIL</text>
-    </a>
-  </g>
 </svg>

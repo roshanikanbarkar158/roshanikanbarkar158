@@ -1,37 +1,20 @@
 ![Roshani Kanbarkar — Full-Stack Software Engineer](./assets/profile/hero.svg)
 
-<hr>
-
-`TITLE BLOCK`
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2200&pause=500&color=FACC15&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=210&lines=Role%3A+Full-Stack+Software+Engineer;Experience%3A+~4+years+building+scalable+web+applications;Base%3A+Pune%2C+India;Core%3A+Next.js%2C+Node.js%2C+TypeScript%2C+REST+API+design;Cloud%3A+AWS+Lambda%2C+EventBridge%2C+Step+Functions%2C+Cognito;AI%3A+OpenAI%2C+Claude%2C+Stability+AI%2C+Whisper;Craft%3A+Production+support%2C+Observability%2C+CI%2FCD%2C+Secure+auth+%26+payments;Mission%3A+Ship+dependable%2C+AI-powered+products+end-to-end." alt="Typing SVG summary of Roshani's role, experience, and stack" />
+  <a href="https://www.linkedin.com/in/roshani-kanbarkar"><img src="./assets/profile/icons/linkedin-button.svg" alt="LinkedIn" /></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:roshanikanbarkar.work@gmail.com"><img src="./assets/profile/icons/email-button.svg" alt="Email" /></a>
 </p>
+
+![Technology matrix: Node.js, Express.js, TypeScript, React, Next.js, Tailwind, DynamoDB, Redis, AWS, Stripe, Cognito, Claude](./assets/profile/technology-matrix.svg)
 
 <hr>
 
 `SYSTEM MODULES`
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/profile/icons/hex.svg" width="18" height="18" valign="middle" /> Backend systems</h3>
-      <p>RESTful APIs, event-driven AWS workflows, secure data modeling, caching, and encryption for high-throughput, low-latency access.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/profile/icons/node.svg" width="18" height="18" valign="middle" /> Product engineering</h3>
-      <p>Next.js rendering performance, Stripe billing flows, Cognito/SSO auth, and generative-AI features shipped to real users.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><img src="./assets/profile/icons/pulse.svg" width="18" height="18" valign="middle" /> Operational rigor</h3>
-      <p>CloudWatch observability, multi-env CI/CD, production support, and AI-assisted development for faster, cleaner delivery.</p>
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-![Technology matrix: Node.js, Express.js, TypeScript, React, Next.js, Tailwind, DynamoDB, Redis, AWS, Stripe, Cognito, Claude](./assets/profile/technology-matrix.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=3800&pause=800&color=FACC15&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=1160&height=110&lines=Backend+systems%3A+RESTful+APIs%2C+event-driven+AWS+workflows%2C+secure+data+modeling%2C+caching%2C+and+encryption+for+high-throughput%2C+low-latency+access.;Product+engineering%3A+Next.js+rendering+performance%2C+Stripe+billing+flows%2C+Cognito%2FSSO+auth%2C+and+generative-AI+features+shipped+to+real+users.;Operational+rigor%3A+CloudWatch+observability%2C+multi-env+CI%2FCD%2C+production+support%2C+and+AI-assisted+development+for+faster%2C+cleaner+delivery." alt="Typing SVG summary of Roshani's engineering focus areas" />
+</p>
 
 <hr>
 
