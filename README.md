@@ -13,7 +13,7 @@
 `SYSTEM MODULES`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=3800&pause=600&color=FACC15&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=1160&height=110&lines=Backend+systems%3A+RESTful+APIs%2C+event-driven+AWS+workflows%2C+secure+data+modeling%2C+caching%2C+and+encryption+for+high-throughput%2C+low-latency+access.;Product+engineering%3A+Next.js+rendering+performance%2C+Stripe+billing+flows%2C+Cognito%2FSSO+auth%2C+and+generative-AI+features+shipped+to+real+users.;Operational+rigor%3A+CloudWatch+observability%2C+multi-env+CI%2FCD%2C+production+support%2C+and+AI-assisted+development+for+faster%2C+cleaner+delivery." alt="Typing SVG summary of Roshani's engineering focus areas" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=3800&pause=800&color=FACC15&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=1160&height=110&lines=Backend+systems%3A+RESTful+APIs%2C+event-driven+AWS+workflows%2C+secure+data+modeling%2C+caching%2C+and+encryption+for+high-throughput%2C+low-latency+access.;Product+engineering%3A+Next.js+rendering+performance%2C+Stripe+billing+flows%2C+Cognito%2FSSO+auth%2C+and+generative-AI+features+shipped+to+real+users.;Operational+rigor%3A+CloudWatch+observability%2C+multi-env+CI%2FCD%2C+production+support%2C+and+AI-assisted+development+for+faster%2C+cleaner+delivery." alt="Typing SVG summary of Roshani's engineering focus areas" />
 </p>
 
 <hr>
